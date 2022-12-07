@@ -1,9 +1,11 @@
 # IFSP-CMP-D2APR-2022.2
-Repositório de códigos do curso Aprendizado de Máquina e Reconhecimento de Padrões (D2APR) do 2° semestre de 2022 do IFSP Campinas.
+Repository with codes developed during the **Machine Learning** classes (2nd semester 2022) at IFSP Campinas.
 
-**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
+**Professor:** [Samuel Martins (Samuka)](https://samucoding.com) - [@iamsamucoding](https://github.com/iamsamucoding)
 
-Cada pasta/diretório possui um subdiretório `base_codes` com os códigos base o desenvolvimento inicial dos tópicos/atividades.
+Each directory has a `base_codes` subdirectory with the base codes for the initial development of the topics/activities. In some cases, they are files with the suffix '_code_base' or '_codigos_base'.
 
-### Aulas/Tópicos
+### Classes/Topics
 
+
+### Portfolio Projects
