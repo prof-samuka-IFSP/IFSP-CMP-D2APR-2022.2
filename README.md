@@ -1,5 +1,6 @@
 # Machine Learning 2022.2 - IFSP Campinas
-Repository with codes developed during the **Machine Learning** classes (2nd semester 2022) at IFSP Campinas. The slides can be found on the Moodle page of the course.
+Repository with codes developed during the **Machine Learning** classes (2nd semester 2022) at IFSP Campinas.<br/>
+The slides can be found on the course's Moodle page.
 
 **Professor:** [Samuel Martins (Samuka)](https://samucoding.com) - [@iamsamucoding](https://github.com/iamsamucoding)
 
